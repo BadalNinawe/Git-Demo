@@ -1,2 +1,2 @@
 # Git-Demo
-This is public  demo git and github repo
+This is public first demo git and github repo.
